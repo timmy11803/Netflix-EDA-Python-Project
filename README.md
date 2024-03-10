@@ -1,1 +1,1 @@
-# Python Project Netflix EDA
+# Netflix EDA Python Project 
