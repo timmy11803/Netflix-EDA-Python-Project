@@ -2,7 +2,7 @@
 # Netflix Python EDA
 
 In this project I utilized exploratory data analysis to identify patterns and trends in Netflix user subscription data across multiple
-years. My main purpose was to get an idea of which shows had the longest shelf life and to analyze the correlations among them, more specifically which shows were successful for more than the inital first season.
+years. My main purpose was to get an idea of which shows had the longest shelf life and to analyze the correlations among them, more specifically which shows were successful for more than the inital first season. I obtained my data set from a github repository then used SQL to parse and join the data to create the data set with all the proper parameters that I needed to do my EDA later in Python.
 
 
 ## Acknowledgements
@@ -17,7 +17,7 @@ What makes Netflix's subscription based model so successful and why does usershi
 
 SQL: CTEs, Joins, Case, aggregate functions
 
-Python: Pandas, Matplotlib, Numpy, Writing functions, building a product funnel, statistics
+Python: Pandas, Matplotlib, Numpy, Writing functions, statistics
 
 # Hi, I'm Timothy! 👋
 
