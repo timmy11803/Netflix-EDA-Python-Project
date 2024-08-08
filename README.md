@@ -23,7 +23,7 @@ Python: Pandas, Matplotlib, Numpy, Writing functions, statistics
 
 
 ## 🚀 About Me
-I'm a Junior Data Scientist and former
+I'm a Data Analyst and former
 paralegal with a proven track record
 of optimizing case management
 through strategic use of data science.
